@@ -1,0 +1,25 @@
+# Theme metadata
+name = "THU"
+
+[light]
+  # Primary (Pantone 259C → R102 G8 B116)
+  primary = "#660874"
+
+  # Menu
+  menu_primary = "#ffffff"
+  menu_text = "#34495e"
+  menu_text_active = "#660874"   # active link = brand purple
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  # Use a light lavender for contrast on dark backgrounds
+  primary = "#e1bee7"            # light purple tint
+  link = "#e1bee7"
+  link_hover = "#e1bee7"
+
+# Optional accent from the guide (Pantone 7424C):
+# accent = "#D93379"
