@@ -8,14 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
+        清华大学计算机系量子软件中心
+      text:
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar dui urna, vel rutrum lectus pretium sit amet. Praesent non eleifend nisi, in porttitor dui. Nunc et augue vestibulum, sollicitudin nulla at, accumsan dui. Integer vestibulum nisl bibendum dapibus aliquam. Etiam lectus velit, interdum sed erat at, viverra cursus metus.
+
+    design:
+      background:
+        gradient_start: '#8B008B'
+        gradient_end: '#4B0082'
+        text_color_light: true
+          
   
   - block: collection
     content:
@@ -33,33 +36,13 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      view: compact
+      columns: '2'
 
   - block: collection
     content:
       title: 论文发表
-      text: ""
+      text: 
       count: 5
       filters:
         folders:
@@ -67,14 +50,5 @@ sections:
         publication_type: 'article'
     design:
       view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="组内成员 →" %}}
-    design:
-      columns: '1'
+      columns: '2'
 ---

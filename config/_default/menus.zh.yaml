@@ -10,7 +10,7 @@ main:
   - name: 组内成员
     url: people
     weight: 30
-  - name: 组内活动
+  - name: 学术活动
     url: event
     weight: 40
   - name: 论文发表

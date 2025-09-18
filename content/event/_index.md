@@ -1,5 +1,5 @@
 ---
-title: 组内活动
+title: 学术活动
 
 # Listing view
 view: compact
