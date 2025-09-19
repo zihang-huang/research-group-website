@@ -5,19 +5,19 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: Hero
     content:
-      title: |
-        清华大学计算机系量子软件中心
-      text:
-        <br>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar dui urna, vel rutrum lectus pretium sit amet. Praesent non eleifend nisi, in porttitor dui. Nunc et augue vestibulum, sollicitudin nulla at, accumsan dui. Integer vestibulum nisl bibendum dapibus aliquam. Etiam lectus velit, interdum sed erat at, viverra cursus metus.
+      title: "清华大学计算机系量子软件中心"
+      text: "<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt commodo nulla, id faucibus erat rutrum id. Sed nibh nisi, commodo sit amet lacus in, congue scelerisque augue. Nullam lectus tortor, ornare eu aliquam non, malesuada ac odio.
+      "
 
     design:
       background:
         gradient_start: '#8B008B'
         gradient_end: '#4B0082'
         text_color_light: true
+      css_class: "hero-text-small"
+
           
   
   - block: collection

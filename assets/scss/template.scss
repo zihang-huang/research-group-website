@@ -7,3 +7,18 @@
 .cta-group {
   justify-content: center;
 }
+
+// Make hero text smaller
+.hero-text-small .hero-title {
+  font-size: 3rem !important;
+}
+
+.hero-text-small .hero-subtitle {
+  font-size: 1.1rem !important;
+}
+
+// Make logo smaller
+.navbar-brand img {
+  max-height: 40px !important;
+  width: auto !important;
+}
