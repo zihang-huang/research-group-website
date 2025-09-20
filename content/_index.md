@@ -5,11 +5,12 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: Hero
+  - block: hero
     content:
       title: "清华大学计算机系量子软件研究中心"
-      text: "<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt commodo nulla, id faucibus erat rutrum id. Sed nibh nisi, commodo sit amet lacus in, congue scelerisque augue. Nullam lectus tortor, ornare eu aliquam non, malesuada ac odio.
+      text: "Center for Quantum Software, Department of Computer Science and Technology, Tsinghua University
       "
+      
 
     design:
       background:
