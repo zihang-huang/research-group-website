@@ -20,7 +20,7 @@ sections:
       sort_by: Params.last_name
       sort_ascending: true
     design:
-      show_interests: false
-      show_role: true
-      show_social: true
+      show_interests: false # 在成员下方显示研究兴趣
+      show_role: true # 在成员下方显示职位
+      show_social: true #在成员下方显示相关链接的跳转按钮
 ---

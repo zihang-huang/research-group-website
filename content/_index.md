@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: Hero
     content:
-      title: "清华大学计算机系量子软件中心"
+      title: "清华大学计算机系量子软件研究中心"
       text: "<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt commodo nulla, id faucibus erat rutrum id. Sed nibh nisi, commodo sit amet lacus in, congue scelerisque augue. Nullam lectus tortor, ornare eu aliquam non, malesuada ac odio.
       "
 
