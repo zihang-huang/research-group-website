@@ -16,6 +16,6 @@ main:
   - name: 论文发表
     url: publication
     weight: 50
-  - name: 联系我们
-    url: contact
-    weight: 60
+#  - name: 联系我们
+#    url: contact
+#    weight: 60
