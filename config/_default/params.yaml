@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: '清华大学计算机系量子软件中心'
+    org_name: 'Tsinghua University'
+    description: '清华大学计算机系量子软件研究中心'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

@@ -24,7 +24,7 @@ sections:
   - block: collection
     content:
       title: 新闻动态
-      subtitle:
+      subtitle: 
       text:
       count: 5
       filters:
